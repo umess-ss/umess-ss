@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=umess-ss&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Counter" />
+</p>
+
+<p align="center">
   <a href="https://umess-ss.github.io/my-self/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
@@ -13,12 +17,22 @@
 ---
 
 ## 👨‍💻 About Me
-I am a dedicated Electronics and Communication Engineer based in Kathmandu. I specialize in backend architecture and AWS Cloud operations, focusing on system stability and efficient CI/CD workflows.
+[cite_start]I am a dedicated developer based in Kathmandu[cite: 2]. [cite_start]I specialize in backend architecture and AWS Cloud operations, focusing on system stability and efficient CI/CD workflows[cite: 5, 6].
 
-- 🚀 **Currently:** Expanding expertise in Docker, containerization, and AWS Cloud infrastructure.
-- 🛠️ **Tech Stack:** Python, Django, REST APIs, and Deep Learning (CNN, RNN, Transformers).
-- ⚙️ **DevOps:** Experienced in Git/GitHub, CI/CD pipelines, and infrastructure monitoring.
-- 🎓 **Education:** Bachelor in Electronics and Communication Engineering from ACEM.
+- [cite_start]🚀 **Currently:** Expanding my technical toolkit with Docker and containerization[cite: 7].
+- [cite_start]🛠️ **Tech Stack:** Python, Django, REST APIs, and Deep Learning architectures[cite: 35, 39].
+- [cite_start]⚙️ **Cloud:** Hands-on experience with AWS services like EC2, S3, IAM, and VPC[cite: 31].
+- [cite_start]🎓 **Education:** Bachelor in Electronics and Communication Engineering from ACEM[cite: 10].
+
+---
+
+## 🛠️ Technical Skills
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,js,pytorch,git,github,docker,aws,linux" />
+  </a>
+</p>
 
 ---
 
@@ -37,19 +51,18 @@ I am a dedicated Electronics and Communication Engineer based in Kathmandu. I sp
 
 ## 📂 Featured Projects
 
-### 👁️ Blind Vision App
-*Real-time accessibility tool.*
-- Integrated YOLO and MIDAS models for object detection and depth estimation.
-- Optimized integration logic for low latency and high efficiency.
+### [cite_start]👁️ Blind Vision App [cite: 14]
+- [cite_start]Integrated YOLO and MIDAS models for real-time object detection and depth estimation[cite: 19].
+- [cite_start]Guided the system's architecture to bridge deep learning with voice navigation[cite: 21].
 
-### 📈 Trading Dashboard
-*Real-time data visualization.*
-- Built using Lightweight Charts and containerized with Docker.
-- Automated deployment using GitHub Actions CI/CD pipelines.
+### [cite_start]📈 Trading Dashboard [cite: 24]
+- [cite_start]Collaborating on a real-time trading dashboard using Docker for containerization[cite: 25].
+- [cite_start]Established CI/CD pipelines via GitHub Actions for automated deployment[cite: 25].
 
 ---
 
 ## 🔗 Connect With Me
+
 <p align="left">
   <a href="https://linkedin.com/in/umeshrajbanshi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />

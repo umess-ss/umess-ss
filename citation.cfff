@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use or reference my portfolio or projects, please cite them as follows."
+authors:
+  - family-names: Rajbanshi
+    given-names: Umesh
+title: "Umesh Rajbanshi - Professional Portfolio & Projects"
+version: 1.0.0
+date-released: 2026-01-21
+url: "https://github.com/umess-ss"
+repository-code: "https://github.com/umess-ss"
+abstract: >-
+  A collection of engineering projects focusing on Backend Architecture, 
+  AWS Cloud Operations, and Deep Learning applications like the Blind Vision App.
+keywords:
+  - Electronics Engineer
+  - Backend Development
+  - AWS Cloud
+  - Deep Learning
