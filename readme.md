@@ -17,12 +17,12 @@
 ---
 
 ## 👨‍💻 About Me
-[cite_start]I am a dedicated developer based in Kathmandu[cite: 2]. [cite_start]I specialize in backend architecture and AWS Cloud operations, focusing on system stability and efficient CI/CD workflows[cite: 5, 6].
+I am a dedicated Electronics and Communication Engineer based in Kathmandu. I specialize in backend architecture and AWS Cloud operations, focusing on system stability and efficient CI/CD workflows.
 
-- [cite_start]🚀 **Currently:** Expanding my technical toolkit with Docker and containerization[cite: 7].
-- [cite_start]🛠️ **Tech Stack:** Python, Django, REST APIs, and Deep Learning architectures[cite: 35, 39].
-- [cite_start]⚙️ **Cloud:** Hands-on experience with AWS services like EC2, S3, IAM, and VPC[cite: 31].
-- [cite_start]🎓 **Education:** Bachelor in Electronics and Communication Engineering from ACEM[cite: 10].
+- 🚀 **Currently:** Expanding my technical toolkit with Docker and containerization.
+- 🛠️ **Tech Stack:** Python, Django, REST APIs, and Deep Learning architectures like CNN and Transformers.
+- ⚙️ **DevOps:** Hands-on experience with AWS services including EC2, S3, IAM, and VPC.
+- 🎓 **Education:** Bachelor in Electronics and Communication Engineering from ACEM.
 
 ---
 
@@ -51,13 +51,13 @@
 
 ## 📂 Featured Projects
 
-### [cite_start]👁️ Blind Vision App [cite: 14]
-- [cite_start]Integrated YOLO and MIDAS models for real-time object detection and depth estimation[cite: 19].
-- [cite_start]Guided the system's architecture to bridge deep learning with voice navigation[cite: 21].
+### 👁️ Blind Vision App
+- Integrated YOLO and MIDAS models for real-time object detection and depth estimation.
+- Guided the system's architecture to bridge deep learning models with voice-guided navigation.
 
-### [cite_start]📈 Trading Dashboard [cite: 24]
-- [cite_start]Collaborating on a real-time trading dashboard using Docker for containerization[cite: 25].
-- [cite_start]Established CI/CD pipelines via GitHub Actions for automated deployment[cite: 25].
+### 📈 Trading Dashboard
+- Collaborating on a real-time trading dashboard using Docker for containerization.
+- Established a stable backend foundation and set up CI/CD pipelines via GitHub Actions.
 
 ---
 
