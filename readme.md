@@ -29,8 +29,13 @@ I am a dedicated Electronics and Communication Engineer based in Kathmandu. I sp
 ## 🛠️ Technical Skills
 
 <p align="left">
+<p>Software Development</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,js,pytorch,git,github,docker,aws,linux" />
+    <img src="https://skillicons.dev/icons?i=python,django,react,js,nodejs,git,github,githubactions,docker,aws,linux" />
+  </a>
+  <p>Data Science & AI</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch," />
   </a>
 </p>
 
