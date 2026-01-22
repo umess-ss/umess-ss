@@ -38,7 +38,7 @@ I am a dedicated Electronics and Communication Engineer based in Kathmandu. I sp
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umess-ss&show_icons=true&theme=tokyonight&count_private=true" alt="Umesh's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=umess-ss&show_icons=true&theme=tokyonight&count_private=true" alt="Umesh's GitHub Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umess-ss&layout=compact&theme=tokyonight" alt="Most Used Languages" height="180px" />
 </p>
 
