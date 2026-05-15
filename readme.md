@@ -31,7 +31,7 @@ I am a dedicated Electronics and Communication Engineer based in Kathmandu. I sp
 <p align="left">
 <p>Software Development</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,react,js,nodejs,git,github,githubactions,docker,aws,linux" />
+    <img src="https://skillicons.dev/icons?i=python,django,react,js,nodejs,git,github,githubactions,docker,aws,linux,go" />
   </a>
   <p>Data Science & AI</p>
   <a href="https://skillicons.dev">
