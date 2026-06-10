@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umess-ss&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=f0rsakeN-afk&label=👀%20Visitors&color=ff69b4&style=for-the-badge" alt="profile views" />
 </p>
 
 <p align="center">
@@ -122,17 +122,18 @@ An AI-assisted vision project using deep learning models for object detection an
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=umess-ss&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umess-ss&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umess-ss&bg_color=0d1117&color=58a6ff&line=4caf50&point=1db954&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
 ## 🔥 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umess-ss&theme=react-dark" width="100%" alt="Contribution Graph" />
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=umess-ss&show_icons=true&theme=vue-dark&hide_border=true&count_private=true"/>
+
+</div>
 
 ---
 
